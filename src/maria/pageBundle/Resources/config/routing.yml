@@ -1,0 +1,3 @@
+mariapage_homepage:
+    pattern:  /popescu/{name}
+    defaults: { _controller: mariapageBundle:Default:index }
